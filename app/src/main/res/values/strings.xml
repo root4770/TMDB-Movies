@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="title_activity_register">Register Activity</string>
+</resources>
